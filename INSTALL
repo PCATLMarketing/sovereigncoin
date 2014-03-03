@@ -1,0 +1,9 @@
+Building Sovereigncoin
+
+See doc/readme-qt.rst for instructions on building Sovereigncoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sovereigncoin.
+
+See doc/build-*.txt for instructions on building sovereigncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sovereigncoin.
